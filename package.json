@@ -11,5 +11,9 @@
     "ecmascript"
   ],
   "author": "Santiago Lobo <lobo09.slu@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
